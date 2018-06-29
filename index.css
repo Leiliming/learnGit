@@ -1,0 +1,11 @@
+input{
+    width:100px;
+    height200px;
+    user-select: none;
+}
+span{
+    width:100px;
+    display: inline;
+    height:100px;
+    line-height: 100px;
+}
